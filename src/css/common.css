@@ -17,13 +17,13 @@ img {
   max-width: 100%;
 }
 
-form {
+.promise form {
   display: flex;
   flex-flow: column wrap;
   width: 200px;
   gap: 5px
 }
 
-button {
+.promise button {
   margin-top: 20px;
 }
